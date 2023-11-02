@@ -1,4 +1,4 @@
-public class HelloWorld {
+public class SwappingTwoVariables {
     public static void main(String[] args) {
         String x = ("Pig");
         String y = ("Turtle");
